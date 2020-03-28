@@ -1,0 +1,9 @@
+com\chen\autoport\entity\VpnInfo.class
+com\chen\autoport\service\VpnInfoService.class
+com\chen\autoport\dao\VpnInfoDao.class
+com\chen\autoport\service\impl\AsyncTaskService.class
+com\chen\autoport\service\impl\VpnInfoServiceImpl.class
+com\chen\autoport\AutoportApplication.class
+com\chen\autoport\thread\AsyncConfiguration.class
+com\chen\autoport\controller\VpnInfoController.class
+com\chen\autoport\init\InitProject.class
